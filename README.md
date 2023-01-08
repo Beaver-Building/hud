@@ -1,4 +1,4 @@
-# BoardGameHost
+# BoardGameMaster
 A board game host for murder mystery game
 
 ## Moore machines
