@@ -1,11 +1,7 @@
-/*
-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
-*/
 package main
 
-import "bgh/cmd"
+import "github.com/Gorechar/BoardGameMaster/cmd/boardgamemaster"
 
 func main() {
-	cmd.Execute()
+	boardgamemaster.Execute()
 }
