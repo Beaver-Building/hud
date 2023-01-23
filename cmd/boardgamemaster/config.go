@@ -24,9 +24,9 @@ to quickly create a Cobra application.`,
 		** get players
 		 */
 		/* FUNCTIONAL COMPONENTS
-		** load config from *fandom* server
-		** connect to db
-		** connect to msgq
+		** load config from *fandom* server TBD
+		** connect to cosmos db emulator https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/samples-go
+		** connect to azurite for queue https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?tabs=visual-studio
 		 */
 
 	},

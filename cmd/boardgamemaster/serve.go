@@ -7,6 +7,7 @@ package boardgamemaster
 import (
 	"fmt"
 
+	"github.com/Gorechar/BoardGameMaster/pkg/boardgamemaster"
 	"github.com/spf13/cobra"
 )
 
@@ -27,6 +28,7 @@ to quickly create a Cobra application.`,
 		** start turn counter
 		** start event monitor
 		 */
+		boardgamemaster.Serve()
 	},
 }
 
