@@ -22,6 +22,12 @@ This application is a tool to generate the needed files
 to quickly create a Cobra application.`,
 	Run: func(cmd *cobra.Command, args []string) {
 		fmt.Println("move called")
+		/* USER BEHAVIOR/REACTION
+		** prev trigger event
+		** movement (breakable?)
+		** check corresponding event *settle this round*
+		** call next
+		 */
 	},
 }
 
