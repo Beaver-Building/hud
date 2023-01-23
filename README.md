@@ -6,3 +6,5 @@ A board game host for murder mystery game
 
 This host is going to calculate the status of multiple player. 
 For example, a player have two states in a loop: Stand-by, Take Action, and have properties: ATK, STA, HP, AP, BUFF, SKILL
+
+## Reference
