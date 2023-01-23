@@ -1,7 +1,7 @@
 package main
 
-import "github.com/Gorechar/BoardGameMaster/cmd/boardgamemaster"
+import "github.com/Gorechar/hud/cmd/hud"
 
 func main() {
-	boardgamemaster.Execute()
+	hud.Execute()
 }

@@ -1,4 +1,4 @@
-module github.com/Gorechar/BoardGameMaster
+module github.com/Gorechar/hud
 
 go 1.18
 
