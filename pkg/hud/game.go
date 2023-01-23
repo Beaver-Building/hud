@@ -1,4 +1,4 @@
-package boardgamemaster
+package hud
 
 type game struct {
 	playersOrder map[int]int

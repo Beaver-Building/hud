@@ -1,4 +1,4 @@
-package boardgamemaster
+package hud
 
 import "fmt"
 
